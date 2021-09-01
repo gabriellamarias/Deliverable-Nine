@@ -1,0 +1,13 @@
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\bin\Debug\netcoreapp3.1\Deliverable9.exe
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\bin\Debug\netcoreapp3.1\Deliverable9.deps.json
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\bin\Debug\netcoreapp3.1\Deliverable9.runtimeconfig.json
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\bin\Debug\netcoreapp3.1\Deliverable9.runtimeconfig.dev.json
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\bin\Debug\netcoreapp3.1\Deliverable9.dll
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\bin\Debug\netcoreapp3.1\Deliverable9.pdb
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\obj\Debug\netcoreapp3.1\Deliverable9.csproj.AssemblyReference.cache
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\obj\Debug\netcoreapp3.1\Deliverable9.AssemblyInfoInputs.cache
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\obj\Debug\netcoreapp3.1\Deliverable9.AssemblyInfo.cs
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\obj\Debug\netcoreapp3.1\Deliverable9.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\obj\Debug\netcoreapp3.1\Deliverable9.dll
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\obj\Debug\netcoreapp3.1\Deliverable9.pdb
+C:\Users\Gabi\source\repos\Deliverable9\Deliverable9\obj\Debug\netcoreapp3.1\Deliverable9.genruntimeconfig.cache
